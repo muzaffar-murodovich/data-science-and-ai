@@ -8,6 +8,9 @@ numpy = "*"
 pandas = "*"
 matplotlib = "*"
 openpyxl = "*"
+lxml = "*"
+html5lib = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 ipykernel = "*"
