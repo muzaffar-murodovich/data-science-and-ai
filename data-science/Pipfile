@@ -12,6 +12,7 @@ lxml = "*"
 html5lib = "*"
 beautifulsoup4 = "*"
 seaborn = "*"
+xgboost = "*"
 
 [dev-packages]
 ipykernel = "*"
