@@ -13,6 +13,7 @@ html5lib = "*"
 beautifulsoup4 = "*"
 seaborn = "*"
 xgboost = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
