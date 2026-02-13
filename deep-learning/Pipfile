@@ -8,6 +8,8 @@ numpy = "*"
 torch = "*"
 matplotlib = "*"
 torchvision = "*"
+pandas = "*"
+openpyxl = "*"
 
 [dev-packages]
 ipykernel = "*"
