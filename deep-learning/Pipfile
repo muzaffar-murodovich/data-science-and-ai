@@ -10,6 +10,7 @@ matplotlib = "*"
 torchvision = "*"
 pandas = "*"
 openpyxl = "*"
+transformers = "*"
 
 [dev-packages]
 ipykernel = "*"
