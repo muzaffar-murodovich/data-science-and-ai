@@ -11,6 +11,7 @@ torchvision = "*"
 pandas = "*"
 openpyxl = "*"
 transformers = "*"
+datasets = "*"
 
 [dev-packages]
 ipykernel = "*"
