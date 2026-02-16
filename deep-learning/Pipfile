@@ -15,6 +15,7 @@ datasets = "*"
 
 [dev-packages]
 ipykernel = "*"
+accelerate = ">=1.1.0"
 
 [requires]
 python_version = "3.11"
